@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Momoka Iwase</h1>
 <h3 align="center">An aspiring software engineer, recently graduated from Boston College with a computer science and applied physics double degree.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momokaiwase" alt="momokaiwase" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/momoka-iwase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momoka-iwase" height="30" width="40" /></a>
