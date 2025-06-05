@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momoka Iwase</h1>
-<h3 align="center">An aspiring software engineer, recently graduated from Boston College with a computer science and applied physics double degree.</h3>
+<h3 align="center">Recently graduated from Boston College with a computer science and applied physics double degree.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
